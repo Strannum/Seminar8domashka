@@ -1,0 +1,15 @@
+D:\GeekBrains\Git_lokal_files\Seminar8domashka\Zadacha54\bin\Debug\net6.0\Zadacha54.exe
+D:\GeekBrains\Git_lokal_files\Seminar8domashka\Zadacha54\bin\Debug\net6.0\Zadacha54.deps.json
+D:\GeekBrains\Git_lokal_files\Seminar8domashka\Zadacha54\bin\Debug\net6.0\Zadacha54.runtimeconfig.json
+D:\GeekBrains\Git_lokal_files\Seminar8domashka\Zadacha54\bin\Debug\net6.0\Zadacha54.dll
+D:\GeekBrains\Git_lokal_files\Seminar8domashka\Zadacha54\bin\Debug\net6.0\Zadacha54.pdb
+D:\GeekBrains\Git_lokal_files\Seminar8domashka\Zadacha54\obj\Debug\net6.0\Zadacha54.csproj.AssemblyReference.cache
+D:\GeekBrains\Git_lokal_files\Seminar8domashka\Zadacha54\obj\Debug\net6.0\Zadacha54.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Git_lokal_files\Seminar8domashka\Zadacha54\obj\Debug\net6.0\Zadacha54.AssemblyInfoInputs.cache
+D:\GeekBrains\Git_lokal_files\Seminar8domashka\Zadacha54\obj\Debug\net6.0\Zadacha54.AssemblyInfo.cs
+D:\GeekBrains\Git_lokal_files\Seminar8domashka\Zadacha54\obj\Debug\net6.0\Zadacha54.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Git_lokal_files\Seminar8domashka\Zadacha54\obj\Debug\net6.0\Zadacha54.dll
+D:\GeekBrains\Git_lokal_files\Seminar8domashka\Zadacha54\obj\Debug\net6.0\refint\Zadacha54.dll
+D:\GeekBrains\Git_lokal_files\Seminar8domashka\Zadacha54\obj\Debug\net6.0\Zadacha54.pdb
+D:\GeekBrains\Git_lokal_files\Seminar8domashka\Zadacha54\obj\Debug\net6.0\Zadacha54.genruntimeconfig.cache
+D:\GeekBrains\Git_lokal_files\Seminar8domashka\Zadacha54\obj\Debug\net6.0\ref\Zadacha54.dll
